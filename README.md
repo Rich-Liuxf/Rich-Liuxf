@@ -4,6 +4,9 @@
 
 - 👯 The project we are working on [CROlordCloudNative]（https://github.com/Roliyal/CROlordCloudNative）
 
+:bison:
+U+1F9AC
+
 ![image](https://github.com/Rich-Liuxf/Rich-Liuxf/assets/106301413/f9402fc8-669c-4e04-b528-96a910629926)
 
 
