@@ -1,20 +1,13 @@
-## Hi there 👋
+<h1 align=“center”>Hi👋，I'm Rich-Liuxf</h1>
+<h3 align=“center”>An operations engineer who fantasizes about making a fortune</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rich-Liuxf&repo=CROlordCloudNative)](https://github.com/anuraghazra/github-readme-stats)
+<p align=“left”> <img src=“https://komarev.com/ghpvc/?username=rich-liuxf&label=Profile%20views&color=0e75b6&style=flat” alt=“rich-liuxf” /> </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rich-Liuxf&left_color=＃808080&right_color=＃006400)
+- 👯 The project we are working on [CROlordCloudNative]（https://github.com/Roliyal/CROlordCloudNative）
 
-<!--
-**Rich-Liuxf/Rich-Liuxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align=“left”>Connect with me：</h3>
+<p align=“left”>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align=“left”>语言和工具：</h3>
+<p align=“left”> <a href=“https://www.docker.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg” alt=“docker” width=“40” height=“40”/> </A> <a href=“https://golang.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg” alt=“go” width=“40” height=“40”/> </A> <a href=“https://www.jenkins.io” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg” alt=“Jenkins” width=“40” height=“40”/> </A> <a href=“https://kubernetes.io” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg” alt=“kubernetes” width=“40” height=“40”/> </A> <a href=“https://www.linux.org/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg” alt=“linux” width=“40” height=“40”/> </A> </人>
