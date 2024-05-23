@@ -2,7 +2,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rich-Liuxf&repo=CROlordCloudNative)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Rich-Liuxf&left_color=＃808080&right_color=＃006400)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rich-Liuxf&left_color=＃808080&right_color=＃006400)
 
 <!--
 **Rich-Liuxf/Rich-Liuxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
