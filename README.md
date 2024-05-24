@@ -2,6 +2,13 @@
 <h3 align=“center”>An operations engineer who dreams of becoming rich🤑</h3>
 
 
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
+
+
 - 👨‍💻 The project I am currently working on *[CROlordCloudNative](https://github.com/Roliyal/CROlordCloudNative)*
 
 - 📫 You can contact me through email *[Email](mailto:root_lliu@163.com)*,But I don't often check my email😜,If I don't reply, 🟢you can contact my WeChat 
